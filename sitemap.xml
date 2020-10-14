@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://masvoces.org.ar/index.html</loc>
+    <lastmod>2018-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://masvoces.org.ar/phone/index.html"/>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/masvoces%2004.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/foto52.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/family.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/open-book.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/collaboration.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/mom-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/thomsonreutersfoundation-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/trustlaw-connect-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/chanarmuyo-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/demonte-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/gomez-vara-crop-u12943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/mazzoni-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://masvoces.org.ar/images/gomez-vara-crop-u129432.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

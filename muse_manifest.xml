@@ -1,0 +1,190 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="masvoces.org.ar" resolutions="1x" timestamp="1536179054968">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4032354339" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="103879298" ref="index"/>
+    <file name="index.css" crc="229540448" ref="index"/>
+    <file name="nomq_index.css" crc="4180095189" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u12652.php" crc="394737028" ref="phone>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="form-u5418.php" crc="106126096" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="masvoces 04.png" crc="317236483" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto52.jpg" crc="3936305328" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="accordion icon_normal.png" crc="118961503" ref="phone>index:index">
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+    </file>
+    <file name="accordion icon_active.png" crc="4082980173" ref="phone>index:index">
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+      <caption webpage="index" alt=" Misión"/>
+      <caption webpage="index" alt="¿Como impacta en la educación?"/>
+    </file>
+    <file name="family.svg" crc="549042" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="family_poster_.png" crc="233362438" ref="phone>index"/>
+    <file name="open-book.svg" crc="4018140769" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="open-book_poster_.png" crc="4238575733" ref="phone>index"/>
+    <file name="collaboration.svg" crc="378268963" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collaboration_poster_.png" crc="104926108" ref="phone>index"/>
+    <file name="comunidad-aprendizaje.jpg" crc="3877000889" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20170605-wa0094-2-u13928-fr.jpg" crc="3815809408" ref="phone>index"/>
+    <file name="megaphone.svg" crc="3907102667" ref="phone>index:index"/>
+    <file name="megaphone_poster_u13874.png" crc="412074299" ref="phone>index:index"/>
+    <file name="contacto.jpg" crc="3963600375" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagotipo color-u1516-fr.png" crc="206221448" ref="index"/>
+    <file name="comunidad-aprendizaje2.jpg" crc="3788908466" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20170605-wa0094-2.jpg" crc="249056950" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mom-logo.jpg" crc="4198912803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thomsonreutersfoundation-logo.jpg" crc="4036256168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trustlaw-connect-logo.jpg" crc="4184138087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="201712070249324a480e9cc7e063f875032ee8648f28f2.jpg" crc="336210543" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chanarmuyo-logo.jpg" crc="4227823826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="demonte-logo.png" crc="267840283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gomez-vara-crop-u12943.jpg" crc="4030343505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="se-consultor-natura-d_nq_np_265401-mlm20325854677_062015-f.jpg" crc="4119863546" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mazzoni-logo.jpg" crc="349147840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_gruporambla_bgblanco.jpg" crc="495054406" ref="index"/>
+    <file name="suma-tu-voz-mas-voces.jpg" crc="293717349" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="25311094_2026158964266349_2726390368346068028_o.jpg" crc="4065722967" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fd47b97e-e35f-4001-b857-a9dda80eb911.jpg" crc="3837314503" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-04 at 181840.jpg" crc="4222279224" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-04 at 185328.jpg" crc="4249274253" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-09-04 at 181936.jpg" crc="274679723" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_normal.png" crc="3974441105" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu_active.png" crc="3929277523" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagotipo color-u1516-fr2.png" crc="520416579" ref="index"/>
+    <file name="gomez-vara-crop-u129432.jpg" crc="120699971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brand_gruporambla_bgblanco-u13882-fr.jpg" crc="401456693" ref="index"/>
+    <file name="suma-tu-voz-mas-voces-u11597-fr.jpg" crc="414140166" ref="index"/>
+    <file name="whatsapp image 2018-09-04 at 181840-u13161-fr.jpg" crc="192562896" ref="index"/>
+    <file name="whatsapp image 2018-09-04 at 181936-u13193-fr.jpg" crc="145774971" ref="index"/>
+    <file name="contacto-u11662-fr.jpg" crc="263446988" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3976230899" ref="phone>index"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="479917958" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3793047481" seo="true" mt="1536178853836" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="305613228" seo="true" mt="1536178680318" redirect="true"/>
+</manifest>
